@@ -1,0 +1,29 @@
+.category{
+    padding-top: 30px;
+    padding-bottom: 150px;
+    display: flex;
+    max-width: 1420px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+}
+.category__card{
+    display: flex;
+    align-items: center;
+    border: 1px solid #F4F6FA;
+    border-radius: 10px;
+    background-color: #F4F6FA;
+    padding: 10px 45px;
+}
+.category__text{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    color: #242424;
+}
+.category__span{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #ADADAD;
+}
